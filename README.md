@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/edd00223-c99c-4427-8be8-74052a0b7bc9)# Study App - Django
+# Study App - Django
 
 This is a simple Django-based study app I created to learn Django and MongoDB.
 
