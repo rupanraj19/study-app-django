@@ -29,4 +29,22 @@ The app is a to-do list for the day where a user can:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rupanraj19/study-app-django.git
+   
+2. Install the required dependencies:
+   ```bash
+   pip install django
+3. Run the development server
+   ```bash
+   python manage.py runserver
+4. If you made any changes to models, run the following commands:
+   ```bash
+   python manage.py makemigrations
+   python manage.py migrate
+
+## Technologies used 
+- Django
+- mongoDB
+- bootstrap
+
+  
