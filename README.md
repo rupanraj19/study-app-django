@@ -21,7 +21,8 @@ The app is a to-do list for the day where a user can:
 - Screenshot of MongoDB structure:  
   ![MongoDB Structure Screenshot]
   ![Screenshot 2025-01-24 223452](https://github.com/user-attachments/assets/c11037e0-bd2a-435f-b3a5-ead7b9d6ca3c)
-![Screenshot 2025-01-24 223505](https://github.com/user-attachments/assets/7ed18048-4895-4ce9-8bf7-d22a952addd7)
+  
+  ![Screenshot 2025-01-24 223505](https://github.com/user-attachments/assets/7ed18048-4895-4ce9-8bf7-d22a952addd7)
 
 
 ## How to Run
